@@ -19,7 +19,7 @@ package.json is used to specify what packages are needed - main.js is the defaul
 
 1. cd app
 2. zip -r ../app.zip
-3. bees app:deploy -t node -RPLUGIN.SRC.node=https://s3.amazonaws.com/cloudbees-downloads/clickstack/node-clickstack.zip ../app.zip
+3. bees app:deploy -t node -RPLUGIN.SRC.node=https://s3.amazonaws.com/clickstacks/admin/nodejs-plugin-0.8.21.zip ../app.zip
 
 
 # The node.js clickstack
