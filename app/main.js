@@ -25,7 +25,7 @@ var server = http.createServer(function (request, response) {
     <p>We have set up all the moving parts for you - the management urls can be found on the following urls:</p>\
     <ul>\
       <li><strong>App console:</strong> <a href="#CS_appManageUrl">#CS_appManageUrl</a></li>\
-      <li><strong>Jenkins Build System:</strong> <a href="#CS_appManageUrl">#CS_appManageUrl</a></li>\
+      <li><strong>Jenkins Build System:</strong> <a href="#CS_jenkinsUrl">#CS_jenkinsUrl</a></li>\
       <li><strong>Source repositories:</strong> <a href="#CS_forgeUrl">#CS_forgeUrl</a></li>\
     </ul>\
   </div>\
